@@ -1,8 +1,9 @@
 # Python-Repo1
-#To Print OK Pattern In Python && Run In Docker
-Create OkPatter.py file
-Add Dockerfile 
-Build Docker Image
+#To Print OK Pattern 
+In Python && Run In Docker
+<h1>Create OkPatter.py file></h1>
+<h1>Add Dockerfile</h1>
+<h1>Build Docker Image</h1>
 =================
 docker build. -t imagename
 ================
