@@ -7,12 +7,12 @@ In Python && Run In Docker </h2>
 <h3>Run Docker Image </h3>
 
 # To Build Docker Image
-# ======================
+======================
   docker build. -t imagename
-# -t => tagname
-# ======================
+<p> -t => tagname </p>
+======================
 # To Run Docker Image
-# ======================
+======================
   docker run -d --it imagename
-# -d demon or background process mode  --it interactive terminal
+<p> -d demon or background process mode  --it interactive terminal </p>
 
